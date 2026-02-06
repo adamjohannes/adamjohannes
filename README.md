@@ -24,8 +24,7 @@
 
 ## Currently Reading
 
-- ✅ "Domain-Driven Design" by Eric Evans (██████████ 100%)
-- 🔃 "Implementing Domain-Driven Design" by Vaughn Vernon (░░░░░░░░░░ 1%)
+- 🔃 "Building Microsservices" by Sam Newman (░░░░░░░░░░ 1%)
 
 ---
 
