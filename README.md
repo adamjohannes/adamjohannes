@@ -31,4 +31,4 @@
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/adam-johannes-84a97b1ba/)
-- [Email](mailto:contact@adamjohannes.com?subject=Hi%20Johannes)
+- [E-mail](mailto:contact@adamjohannes.com?subject=Hi%20Johannes)
