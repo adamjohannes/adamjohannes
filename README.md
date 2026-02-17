@@ -18,13 +18,7 @@
 
 - **Go**, **Java**, and **Rust** for backend services and tools
 - **Vue.js** for frontend
-- **Bash** and **Python** for scripting, automation, and glue code  
-
----
-
-## Currently Reading
-
-- 🔃 "Building Microsservices" by Sam Newman (░░░░░░░░░░ 1%)
+- **Bash** and **Python** for scripting, automation, and glue code
 
 ---
 
